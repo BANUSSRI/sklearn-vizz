@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run sklearn-vizz
+web: sh setup.sh && streamlit run sklearn-vizz.py
